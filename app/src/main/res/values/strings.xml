@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Put your own APP ID here -->
+    <string name="yahoo_client_id">dj0yJmk9d0RuZjlPaFBDYTFRJmQ9WVdrOVFWVkJjR1p5TldjbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1hYQ</string>
+    <string name="yahoo_client_secret_id">97fd292088741b22b1f7b87f1340797a935c72c7</string>
+    <string name="change_city">Change city</string>
+    <string name="delete_city">Delete city</string>
+    <string-array name="base_city">
+        <item>MOSCOW</item>
+        <item>ST. PETERSBURG</item>
+        <item>SOCHI</item>
+    </string-array>
+
+
+    <string name="logo">logo</string>
+</resources>
